@@ -2,6 +2,7 @@
 
 ## Problem Description
 The task is to classify images of plants into eight different species categories. Each category corresponds to a specific plant species. The goal is to build a machine learning model that can predict the correct class label for a given image. 
+                                                                                          ![](plants.png)
 
 ## Dataset Details
 You can download the dataset [here](https://drive.google.com/drive/u/0/folders/1JpHs0m-6IwI_cMUZ4cT5vlrBQyduwjFt)
